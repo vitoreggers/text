@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    color: blue;
+    display: flex;
+    
+}
+.alinhar{
+display: inline-block;
+color: blueviolet;
+padding: 20%;
+}
+p2{
+    color: aliceblue;
+    margin: 120%;
+    padding: 20%;
+}
+p{
+    text-align: center;
+}
+li{
+    color: aliceblue;
+}
